@@ -4,7 +4,10 @@
 :root{
 --bg-gray:#e8e8e8;
 --text-gray: #4a4a4a;
---color-primary: #4D41C0;
+--color-primary: #4d41C0;
+
+
+
 --white: #fff;
 
 
@@ -73,7 +76,7 @@ padding:40px 0;
 }
 
 .dsmovie-card {
-    width: 360px ;
+    width: 100% ;
     
 
 }
